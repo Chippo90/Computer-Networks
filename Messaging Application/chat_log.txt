@@ -1,0 +1,5 @@
+Ahmed-Mohamed has joined the chat room.
+Me: Hi Ahmed
+Ahmed-Mohamed: Hi Chehab
+[Notification] Received file: Chehab.txt
+Ahmed-Mohamed has left the chat.
